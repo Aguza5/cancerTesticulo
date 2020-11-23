@@ -1,1 +1,1 @@
-Web de ejemplo
+Web creada para un proyecto de divulgación para el grado de enfermería en la univarsidad de Huelva
